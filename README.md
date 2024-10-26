@@ -1,8 +1,8 @@
 # YouTube_TimeStamp_ChromeExtension
 
 This repository contains a Chrome Extension, which enables users to easily bookmark specific timestamps in YouTube videos.< br / > 
-Key features include:< br / >
-->Bookmarking: Save the current timestamp of a video with a single click on '+' on the YouTube video control bar.< br / >
+Key features include:<br/>
+->Bookmarking: Save the current timestamp of a video with a single click on '+' on the YouTube video control bar.<br/>
 ->Timestamp Navigation: Quickly jump to bookmarked timestamps by clicking on them.< br / >
 ->Delete Bookmarks: Easily remove any bookmarks you no longer need.< br / >
 ->Video-Specific Storage: Each video maintains its own set of bookmarks, allowing for organized timestamp management.< br / >
